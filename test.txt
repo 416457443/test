@@ -1,2 +1,2 @@
 nothing.
-first push.I've been changed again in github.
+first push.I've been changed again in github. I try to figure out the differences between pull=>commit and commit=>pull.
