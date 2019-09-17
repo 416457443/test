@@ -1,2 +1,2 @@
 nothing.
-first push.I've been changed again in github. I've changed in local.
+first push.I've been changed again in github. I've changed in remote.I decide to save the remote.
